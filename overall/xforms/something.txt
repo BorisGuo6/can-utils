@@ -1,0 +1,10 @@
+([0.34480821513361876, 0.13256582925393567, 0.6820911792116447], [-0.7356680268818351, -0.6764412295854006, 0.005976821246737369, -0.03441067782770963])
+
+
+T_x Transformation matrix of the end effector wrt world === the result of the forward kinematics of the franka robot joint angles 
+- Translation: [0.352, 0.054, 0.761]
+- Rotation: in Quaternion [0.733, 0.679, 0.005, 0.041]
+
+T_x' = the transformation matrix of a 90degrees rotation in z direction
+T_y = Transformation matrix of the camera with respect to the end effector == 0.0811728 -0.0183666 0.0741612   0.0121016 -0.00319473 0.00320956 0.999917 
+
